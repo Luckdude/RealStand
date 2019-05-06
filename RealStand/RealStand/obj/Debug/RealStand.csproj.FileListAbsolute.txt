@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\bin\Debug\RealStand.exe.config
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\bin\Debug\RealStand.exe
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\bin\Debug\RealStand.pdb
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.RealStand.resources
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.exe
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.pdb
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.FormClientes.resources
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.FormOficina.resources
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.FormAluguer.resources
+C:\Users\Admin\Desktop\Projeto C#\RealStand\RealStand\obj\Debug\RealStand.FormVendas.resources
